@@ -1,0 +1,14 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl foliage
+Kd 0.786 0.679 0.368
+
+newmtl bricks
+Kd 0.312 0.319 0.324
+
+newmtl _defaultMat
+Kd 0.746 0.757 0.793
+
+newmtl stoneLight
+Kd 0.06 0.06 0.062
+

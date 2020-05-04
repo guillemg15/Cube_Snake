@@ -1,0 +1,17 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl bricks
+Kd 0.024 0.379 0.093
+
+newmtl wood
+Kd 0.84 0.435 0.305
+
+newmtl foliage
+Kd 0 0.655 0.486
+
+newmtl bricksDark
+Kd 0.7514001 0.225 0.883
+
+newmtl _defaultMat
+Kd 0.2897492 0.7533986 0.8068966
+
